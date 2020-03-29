@@ -3,10 +3,10 @@
     {
       "name": "Syntax",
       "setup": "",
-      "run": "ls ./",
-      "input": "abc",
-      "output": "./",
-      "comparison": "included",
+      "run": "ls",
+      "input": "",
+      "output": "123",
+      "comparison": "exact",
       "timeout": 1,
       "points": 1
     }
