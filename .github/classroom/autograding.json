@@ -3,7 +3,7 @@
     {
       "name": "Syntax",
       "setup": "",
-      "run": "ls",
+      "run": "./test1.sh",
       "input": "",
       "output": "123",
       "comparison": "exact",
