@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Syntax",
+      "setup": "",
+      "run": "ls ./",
+      "input": "abc",
+      "output": "./",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    }
+  ]
+}
