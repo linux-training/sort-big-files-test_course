@@ -9,6 +9,16 @@
       "comparison": "exact",
       "timeout": 1,
       "points": 1
+    },
+    {
+      "name": "Any command",
+      "setup": "",
+      "run": "verify.sh",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
     }
   ]
 }
